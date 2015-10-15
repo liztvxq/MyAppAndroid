@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+
+    <string name="Agregar_prodcuto">Agregar/Editar Producto</string>
+    <string name="ver_producto">Visualizacion de la nota</string>
+
+    <string name="menu_crear">Crear Producto</string>
+    <string name="menu_editar">Editar Producto</string>
+    <string name="menu_eliminar">Eliminar Producto</string>
+    <string name="menu_borrar_todas">Borrar lista</string>
+    <string name="menu_salir">Salir</string>
+
+
+</resources>
